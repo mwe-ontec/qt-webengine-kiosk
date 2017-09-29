@@ -43,14 +43,12 @@
 
 #include <QtGui>
 #include <QtNetwork>
-#include <QtWebEngine>
 #include <QDebug>
 #include "mainwindow.h"
 
 #include <QStandardPaths>
 #include <QApplication>
 #include <QDesktopWidget>
-#include <QtWebEngineWidgets>
 
 #include "cachingnm.h"
 #include "persistentcookiejar.h"

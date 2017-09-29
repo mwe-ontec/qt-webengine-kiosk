@@ -2,7 +2,7 @@
 
 #include <QtDebug>
 #include <QtGui>
-#include <QtWebEngine>
+#include <QtWebEngineWidgets>
 #include "webview.h"
 #include <signal.h>
 #include "unixsignals.h"
